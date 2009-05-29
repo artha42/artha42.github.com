@@ -1,0 +1,32 @@
+
+h1=. !images/logo_big.png!
+Artha42 Technology Solutions
+
+
+h2. What do we do?
+
+Artha42 Technology Solutions is a high end technology consulting firm started by Vagmi Mudumbai and Deepak Ramesh. We along with an agile team of talented professionals provide the following services for your organization.
+
+- No-nonsense consulting
+- Custom application development
+- Project oversight and review
+- Workshops on agile development with Ruby on Rails
+
+h2. How do we do it?
+
+Agile blub
+
+h2. Open source
+
+Almost all of our solutions are powered by open souce software. It has been our experience that open source software excels commercial software in the fields of application development tools and frameworks. As we empower you with open source, we actively contribute our work back to the community. Please visit our open source project pages here.
+
+h2. Recommendations
+
+People sing our glory here.
+
+h2. Contact Us
+
+Phone??
+Email??
+Registered office??
+

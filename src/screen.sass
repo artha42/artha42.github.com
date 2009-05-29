@@ -1,0 +1,29 @@
+@import base.sass
+@import blueprint.sass
+@import blueprint/modules/colors.sass
+@import blueprint/modules/scaffolding.sass
+@import blueprint/modules/grid.sass
+@import blueprint/modules/typography.sass
+@import compass/reset.sass
++blueprint
++blueprint-scaffolding
++blueprint-grid
++blueprint-typography
+// B30001 - background
+// E3E1B8 - header background
+// 2D3034 - text color
+// 8FC0BB - content background
+// 9A8E72 - nav background
+body
+  :background-color #B30001
+  :font-size 13px
+p
+  :font-family "Lucida Sans Unicode, Lucida Grande, sans-serif"
+h1
+  :background-color #E3E1B8
+  :padding .5em
+#container
+  +container
+  :margin-top 3em
+  :background-color #8FC0BB
+  :padding 2em
