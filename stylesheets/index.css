@@ -809,3 +809,12 @@ body { font-size: 13px; }
 #container { display: block; }
 
 p { font-family: "Lucida Sans Unicode, Lucida Grande, sans-serif"; }
+
+body { background-color: #B30001; font-size: 13px; }
+
+p { font-family: "Lucida Sans Unicode, Lucida Grande, sans-serif"; }
+
+h1 { background-color: #E3E1B8; padding: .5em; }
+
+#container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; margin-top: 3em; background-color: #8FC0BB; padding: 2em; }
+#container { display: block; }
