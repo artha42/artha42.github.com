@@ -1,0 +1,38 @@
+h3. Star Retail 
+
+A portal to quickly buy health insurance policies.
+The site enables one to fill in a simple form to choose the various
+cover options and buy online using multiple payment modes. On the
+backend, various reports are available as well as a order state
+management facility. (http://retail.starhealth.in)
+
+h3. Star Alert 
+
+An internal application to enhance the customer
+touch-points for various events. This application is used to send text
+messages to the mobiles of various parties including insured, hospital
+and medical officers. Multiple reports are provided to monitor
+delivery as well as to filter out routine exception issues for better
+communication.
+
+h3. PlanMonitor 
+
+An internal application that enables a financial
+advisor to provide 401(k) related services online to their customer
+companies. The portal acts as a single place of connect for all roles
+in the organization including trustees, participant and the advisors
+themselves. 
+
+
+h3. RecruitMine 
+
+An end-to-end recruitment management software
+enabling a recruitment agency to manage their complete operations
+right from client requirements tracking to candidate database to
+candidate search to interview management and finally even collections
+management. This application is workflow enabled and includes multiple
+reports to momitor productivity and results. This also includes a very
+powerful full-text search module with multiple document type parsers
+and also attribute based search.
+
+ 
