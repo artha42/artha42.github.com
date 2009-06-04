@@ -1,8 +1,8 @@
-@import compass/reset.sass
 @import blueprint.sass
 @import blueprint/modules/scaffolding.sass 
 @import blueprint/modules/grid.sass
 @import blueprint/modules/debug.sass
+@import compass/reset.sass
 
 +blueprint
 +blueprint-scaffolding
@@ -10,19 +10,17 @@
 
 #container
   +container
-  :margin-top 3em
+  :margin-top 1em
   #header
     :height 100px
-    #header_logo
-      +column(6)
     #header_text
+      +column(18)
       :height 100px
-      +column(14, true)
-      :position absolute
-      :top 100
+    #header_logo
+      +column(6,true)
   #nav
     +column(24, true)
-    :padding 10 0 5 0
+    :padding 10 0 0 0
     :background-color #ffdd99
     :text-align center
     :font-size larger
@@ -30,7 +28,7 @@
     :margin 10 0 10 0
     ul li
       :display inline
-      :margin 1em 1em 0 1em
+      :margin 0 1em 0 1em
   #cute_image
     +column(10)
   #aboutus

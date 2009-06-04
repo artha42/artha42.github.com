@@ -1,4 +1,22 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 html, body { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
 
 div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, pre, a, abbr, acronym, address, code, del, dfn, em, img, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, tr { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
@@ -11,24 +29,6 @@ th, td, caption { margin: 0; padding: 0; border: 0; font-weight: inherit; font-s
 table { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; border-collapse: separate; border-spacing: 0; vertical-align: middle; }
 
 a img { border: none; }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 body { line-height: 1.5; font-family: Helvetica Neue, Arial, Helvetica, sans-serif; color: #333333; font-size: 75%; }
 
@@ -452,16 +452,16 @@ hr.space { background: #ddd; color: #ddd; clear: both; float: none; width: 100%;
 
 .showgrid { background: url(/images/grid.png); }
 
-#container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; margin-top: 3em; }
+#container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; margin-top: 1em; }
 #container { display: block; }
 #container #header { height: 100px; }
-#container #header #header_logo { display: inline; float: left; margin-right: 10px; width: 230px; }
-* html #container #header #header_logo { overflow-x: hidden; }
-#container #header #header_text { height: 100px; display: inline; float: left; margin-right: 0; width: 550px; position: absolute; top: 100; }
+#container #header #header_text { display: inline; float: left; margin-right: 10px; width: 710px; height: 100px; }
 * html #container #header #header_text { overflow-x: hidden; }
-#container #nav { display: inline; float: left; margin-right: 0; width: 950px; padding: 10 0 5 0; background-color: #ffdd99; text-align: center; font-size: larger; border-bottom: 1px solid #ff0000; margin: 10 0 10 0; }
+#container #header #header_logo { display: inline; float: left; margin-right: 0; width: 230px; }
+* html #container #header #header_logo { overflow-x: hidden; }
+#container #nav { display: inline; float: left; margin-right: 0; width: 950px; padding: 10 0 0 0; background-color: #ffdd99; text-align: center; font-size: larger; border-bottom: 1px solid #ff0000; margin: 10 0 10 0; }
 * html #container #nav { overflow-x: hidden; }
-#container #nav ul li { display: inline; margin: 1em 1em 0 1em; }
+#container #nav ul li { display: inline; margin: 0 1em 0 1em; }
 #container #cute_image { display: inline; float: left; margin-right: 10px; width: 390px; }
 * html #container #cute_image { overflow-x: hidden; }
 #container #aboutus { display: inline; float: left; margin-right: 0; width: 510px; height: 340px; background-color: #D9DDFF; padding: 10px; }
