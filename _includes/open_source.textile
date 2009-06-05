@@ -1,0 +1,5 @@
+Artha42 leverages a lot of open source technologies and believes in giving back to the community. Apart from our active participation in the "Ruby on Rails":http://www.rubyonrails.com community, we also contribute back to community in terms of patches in new projects.
+
+h2. Watchman
+
+Watchman is a complete Authentication and Authorization system that we use for our projects. Watchman uses Authologic for its authentication needs while building authorization on that. Visit the "project page":http://github.com/artha42/watchman for more information.

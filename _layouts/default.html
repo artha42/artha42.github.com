@@ -1,16 +1,30 @@
+<?xml version="1.0"?>
 <html>
   <head>
     <title>{{ page.title }}</title>
-    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
-    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css"/>
+    <link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css"/>
     <!--[if IE]>
       <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
     <![endif]-->
- 
   </head>
   <body>
     <div id="container">
-      {{ content | textilize }}
+      <div id="header">
+        <div id="logo" style="float: left">
+          <img src="images/logo_big.png" alt="Artha42 technology solutions"/>
+        </div>
+        <div id="header_blurb">
+          <h1>Artha42 Technology Solutions</h1>
+          <p>Simple, effective solutions that work for you.</p>
+        </div>
+      </div>
+      <div id="nav">
+        {% include nav.html %}
+      </div>
+      <div id="content">
+        {{ content | textilize }}
+      </div>
     </div>
   </body>
 </html>

@@ -34,20 +34,20 @@ table { margin: 0; padding: 0; border: 0; font-weight: inherit; font-style: inhe
 
 a img { border: none; }
 
-body { line-height: 1.5; font-family: Palatino, Palatino Linotype, Lucida Grande, serif; color: #2d3034; font-size: 75%; }
+body { line-height: 1.5; font-family: Palatino, Palatino Linotype, Lucida Grande, serif; color: #333333; font-size: 75%; }
 
-h1 { font-weight: normal; color: #1c1f23; font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
+h1 { font-weight: normal; color: #222222; font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
 h1 img { margin: 0; }
 
-h2 { font-weight: normal; color: #1c1f23; font-size: 2em; margin-bottom: 0.75em; }
+h2 { font-weight: normal; color: #222222; font-size: 2em; margin-bottom: 0.75em; }
 
-h3 { font-weight: normal; color: #1c1f23; font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
+h3 { font-weight: normal; color: #222222; font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
 
-h4 { font-weight: normal; color: #1c1f23; font-size: 1.2em; line-height: 1.25; margin-bottom: 1.25em; }
+h4 { font-weight: normal; color: #222222; font-size: 1.2em; line-height: 1.25; margin-bottom: 1.25em; }
 
-h5 { font-weight: normal; color: #1c1f23; font-size: 1em; font-weight: bold; margin-bottom: 1.5em; }
+h5 { font-weight: normal; color: #222222; font-size: 1em; font-weight: bold; margin-bottom: 1.5em; }
 
-h6 { font-weight: normal; color: #1c1f23; font-size: 1em; font-weight: bold; }
+h6 { font-weight: normal; color: #222222; font-size: 1em; font-weight: bold; }
 
 h2 img, h3 img, h4 img, h5 img, h6 img { margin: 0; }
 
@@ -106,9 +106,9 @@ tfoot { font-style: italic; }
 
 caption { background: #eee; }
 
-.quiet { color: #606367; }
+.quiet { color: #666666; }
 
-.loud { color: #0b0e12; }
+.loud { color: #111111; }
 
 .clear { clear: both; }
 
@@ -727,20 +727,20 @@ input.span-24, textarea.span-24, select.span-24 { width: 950px !important; }
 
 .push-24 { margin: 0 -960px 1.5em 960px; }
 
-body { line-height: 1.5; font-family: Palatino, Palatino Linotype, Lucida Grande, serif; color: #2d3034; font-size: 75%; }
+body { line-height: 1.5; font-family: Palatino, Palatino Linotype, Lucida Grande, serif; color: #333333; font-size: 75%; }
 
-h1 { font-weight: normal; color: #1c1f23; font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
+h1 { font-weight: normal; color: #222222; font-size: 3em; line-height: 1; margin-bottom: 0.5em; }
 h1 img { margin: 0; }
 
-h2 { font-weight: normal; color: #1c1f23; font-size: 2em; margin-bottom: 0.75em; }
+h2 { font-weight: normal; color: #222222; font-size: 2em; margin-bottom: 0.75em; }
 
-h3 { font-weight: normal; color: #1c1f23; font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
+h3 { font-weight: normal; color: #222222; font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
 
-h4 { font-weight: normal; color: #1c1f23; font-size: 1.2em; line-height: 1.25; margin-bottom: 1.25em; }
+h4 { font-weight: normal; color: #222222; font-size: 1.2em; line-height: 1.25; margin-bottom: 1.25em; }
 
-h5 { font-weight: normal; color: #1c1f23; font-size: 1em; font-weight: bold; margin-bottom: 1.5em; }
+h5 { font-weight: normal; color: #222222; font-size: 1em; font-weight: bold; margin-bottom: 1.5em; }
 
-h6 { font-weight: normal; color: #1c1f23; font-size: 1em; font-weight: bold; }
+h6 { font-weight: normal; color: #222222; font-size: 1em; font-weight: bold; }
 
 h2 img, h3 img, h4 img, h5 img, h6 img { margin: 0; }
 
@@ -799,16 +799,21 @@ tfoot { font-style: italic; }
 
 caption { background: #eee; }
 
-.quiet { color: #606367; }
+.quiet { color: #666666; }
 
-.loud { color: #0b0e12; }
+.loud { color: #111111; }
 
 body { font-size: 13px; }
 
-#container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; text-align: center; }
+#container { width: 950px; margin: 0 auto; overflow: hidden; display: inline-block; margin-top: 3em; }
 #container { display: block; }
+#container #header #logo { width: 195px; height: 100px; }
+#container #header_blurb { margin-left: 250px; }
+#container #header_blurb h1 { padding-top: 10px; }
+#container #nav { text-align: center; }
+#container #nav ul li { margin: 0.5em; font-size: large; display: inline; }
 
-p { font-family: "Lucida Sans Unicode, Lucida Grande, sans-serif"; }
+#content p { font-family: "Lucida Sans Unicode, Lucida Grande, sans-serif"; }
 
 body { background-color: #B30001; font-size: 13px; }
 
