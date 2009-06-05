@@ -1,0 +1,31 @@
+h2. What do we do?
+
+Artha42 Technology Solutions is a high end technology consulting firm providing best-in-class solutions for your business needs. We are an agile team of talented professionals provide the following services for your organization.
+
+* No-nonsense consulting
+* Custom application development
+* Project oversight and review
+* Workshops on agile development with Ruby on Rails
+
+h2. How do we do it?
+
+There is an oft-repeated saying in software development that goes as follows - "You can pick only any two of time/budget, quality and features and not all three". This saying gets played out so often and with such nasty consequences for the client that this is no joke. We belive that our adherence to the agile process with our experience in multiple platforms/domains helps us best respond to the dynamic needs of your organisation. This focus on consistent and quality delivery puts your organisation in the sweet-spot of changing requirements and business service continuity.
+
+h2. Open source
+
+Almost all of our solutions are powered by open souce software. It has been our experience that open source software excels commercial software in the fields of application development tools and frameworks. As we empower you with open source, we actively contribute our work back to the community. Please visit our open source project(s) here. <Link to projects/repos page - with watchman for now).
+
+h2. Portfolio
+
+Would be great to have a jCarousel with the images and the blurbs that I send along with this mail.
+
+h2. Recommendations
+
+People sing our glory here. < I will try and get a note from Star here>
+
+h2. Contact Us
+
+Phone??
+Email??
+Registered office??
+ 
