@@ -6,7 +6,7 @@ http://creativecommons.org/licenses/by-nc/2.5/
 
 body {
   text-align: center;
-  background: #F4FDE5 url('../img/bg.jpg') top center no-repeat fixed;
+  background: #fbfdf7 url('../img/bg.jpg') top center no-repeat fixed;
   margin-top:10px;
   margin-bottom:10px;
 }
@@ -35,8 +35,8 @@ A:hover {
 
 #page_header {
   height: 120px;
-  background: #ffffff url('../img/logo_big.png') center right no-repeat;
-  margin-right:10px;
+  background: #F4FDE5 url('../img/logo_big.png') center right no-repeat;
+  margin-right:0px;
   right: 10px;
   clear: both;
 }
@@ -113,7 +113,7 @@ A:hover {
 }
 
 #right_side {
-  margin-top:5px;
+  margin-top:0px;
   float: right;
   width:25%;
   border:0px dashed #cccccc;
@@ -123,7 +123,7 @@ A:hover {
   margin-top:0px;
   margin-bottom:10px;
   font-family: verdana, arial, sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   color: #d45500;
   padding:4px;
   border: 1px solid #AAE5A4;
@@ -134,7 +134,7 @@ A:hover {
   margin-top:0px;
   margin-bottom:15px;
   font-family: verdana, arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   color: #666666;
   line-height: 16px;
   padding-left:4px;
@@ -175,14 +175,14 @@ A:hover {
   margin-top:0px;
   margin-bottom:15px;
   font-family: verdana, arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   color: #666666;
   line-height: 18px;
   padding-left:4px;
 }
 #left_side blockquote {
   font-family: verdana, arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   color: #666666;
   line-height: 18px;
   padding-left:4px; 
@@ -193,7 +193,11 @@ A:hover {
   line-height: 150%;
 }
 
-
+#left_side p.box {
+  padding: 10px;
+  border: 1px solid #AAE5A4;
+  background-color:#F4FDE5;
+}
 
 .float_left {
   float: left;
@@ -265,7 +269,7 @@ A:hover {
   background-repeat: no-repeat;
   background-position: 0 7px;
   font-family: verdana, arial, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   line-height:18px;
   color: #666666;
 }
