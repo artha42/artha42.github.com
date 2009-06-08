@@ -29,7 +29,7 @@ A:hover {
   margin-right: auto;
   width: 80%;
   text-align: left;
-  background: #FFFFFF url('../img/content_bg.jpg') top right repeat-y;
+  background: #FFFFFF top right repeat-y;
   border: 1px solid #018843;
 }
 
@@ -175,10 +175,17 @@ A:hover {
   margin-top:0px;
   margin-bottom:15px;
   font-family: verdana, arial, sans-serif;
-  font-size: 12px;
+  font-size: 14px;
   color: #666666;
   line-height: 18px;
   padding-left:4px;
+}
+#left_side blockquote {
+  font-family: verdana, arial, sans-serif;
+  font-size: 14px;
+  color: #666666;
+  line-height: 18px;
+  padding-left:4px; 
 }
 
 #left_side p.big {
@@ -258,7 +265,7 @@ A:hover {
   background-repeat: no-repeat;
   background-position: 0 7px;
   font-family: verdana, arial, sans-serif;
-  font-size: 11px;
+  font-size: 14px;
   line-height:18px;
   color: #666666;
 }
