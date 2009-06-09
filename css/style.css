@@ -60,7 +60,7 @@ A:hover {
   font-size:14px;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #c4ab00;
+  color: #c7ac00;
 }
 
 #menu_bar {
@@ -176,8 +176,8 @@ A:hover {
   margin-bottom:15px;
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
-  color: #884444; 
-  /*color: #960000;*/
+  /*color: #884444; */
+  color: #800000;
   line-height: 18px;
   padding-left:4px;
   text-align: justify;
@@ -274,7 +274,7 @@ A:hover {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
   line-height:18px;
-  color: #884444;
+  color: #800000;
   /*color: #960000;*/
 }
 
