@@ -116,7 +116,8 @@ A:hover {
   margin-top:5px;
   float: right;
   width:25%;
-  border:0px dashed #cccccc;
+  border:1px dashed #cccccc;
+  background-color: #fffdcd;
 }
 
 #right_side h3 {
@@ -175,8 +176,8 @@ A:hover {
   margin-bottom:15px;
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
-  /*color: #666666; */
-  color: #960000;
+  color: #666666; 
+  /*color: #960000;*/
   line-height: 18px;
   padding-left:4px;
   text-align: justify;
@@ -184,7 +185,7 @@ A:hover {
 #left_side blockquote {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
-  color: #960000;
+  color: #666666;
   line-height: 18px;
   padding-left:4px; 
 }
@@ -192,6 +193,7 @@ A:hover {
 #left_side p.big {
   font-size: 110%;
   line-height: 150%;
+  color: #960000;
 }
 
 
@@ -268,6 +270,7 @@ A:hover {
   font-family: helvetica, arial, sans-serif;
   font-size: 14px;
   line-height:18px;
-  color: #960000;
+  color: #666666;
+  /*color: #960000;*/
 }
 
