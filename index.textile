@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<div id="content_wrapper">
+  <div id="left_side">
+
+p(big). Artha42 Technology Solutions is a high end technology consulting firm providing best-in-class solutions for your business needs.
+
+h4. What do we do?
+
+We are an agile team of talented professionals providing the following services for your organization:
+
+<div class="arrow_list">
+* No-nonsense consulting
+* Custom application development
+* Project oversight and review
+* Workshops on agile development with Ruby on Rails
+</div>
+
+h4. How do we do it?
+
+There is an oft-repeated saying in software development that goes as follows. 
+
+
+bq. You can pick only any two of time/budget, quality and features and not all three.
+
+
+We believe that our adherence to the agile process with our expertise in multiple platforms/domains helps us best respond to the dynamic needs of your organisation. This focus on consistent and quality delivery helps us put your organisation in the sweet-spot of managing changing requirements and ensuring business service continuity.
+</div>
+<div id="right_side">
+
+h3. Contact Us
+
+
+Artha42 Technology Solutions,<br/> Old No. 47 New No. 6, <br/> North Road, West CIT Nagar,<br/> Chennai - 600035,<br/> Tamilnadu, India 
+Email - "sales@artha42.com":mailto:sales@artha42.com
+  </div>
+  <div id="spacer"></div>
+</div>
+

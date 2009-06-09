@@ -6,7 +6,8 @@ http://creativecommons.org/licenses/by-nc/2.5/
 
 body {
   text-align: center;
-  background: #fbfdf7 url('../img/bg.jpg') top center no-repeat fixed;
+  background: #DBD089;
+  /*background: #660000; */
   margin-top:10px;
   margin-bottom:10px;
 }
@@ -30,13 +31,12 @@ A:hover {
   width: 80%;
   text-align: left;
   background: #FFFFFF top right repeat-y;
-  border: 1px solid #018843;
+  border: 1px solid #810000;
 }
 
 #page_header {
   height: 120px;
-  background: #F4FDE5 url('../img/logo_big.png') center right no-repeat;
-  margin-right:0px;
+  background: #ffffdd url('../img/artha42logo.png') center right no-repeat;
   right: 10px;
   clear: both;
 }
@@ -45,22 +45,22 @@ A:hover {
   margin: 0px;
   padding-top:30px;
   padding-left:25px;
-  font-family: verdana, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size:32px;
   font-weight: bold;
   letter-spacing: -1px;
-  color: #000080;
+  color: #c82536;
 }
 
 #page_header h2 {
   margin: 0px;
   padding-top:5px;
   padding-left:25px;
-  font-family: verdana, arial, sans-serif;
-  font-size:13px;
+  font-family: helvetica, arial, sans-serif;
+  font-size:14px;
   font-weight: bold;
   letter-spacing: 2px;
-  color: #d45500;
+  color: #c4ab00;
 }
 
 #menu_bar {
@@ -74,12 +74,12 @@ A:hover {
   padding-left: 0px;
   margin-left: 0px;
   /* background: #FF6600 url('../img/menu_bg.gif') top left repeat-x; */
-  background-color: #d45500;
+  background-color: #c82536;
   color: White;
   float: left;
   width: 100%;
-  font-family: verdana, arial, sans-serif;
-  font-size:12px;
+  font-family: helvetica, arial, sans-serif;
+  font-size:14px;
   font-weight: bold;
 }
 
@@ -92,7 +92,7 @@ A:hover {
   padding-left:15px;
   padding-right:15px;
   /* background: #FF6600 url('../img/menu_bg.gif') top left repeat-x; */
-  color: #EFEFEF;
+  color: #FFFFFF;
   text-decoration: none;
   float: left;
   border-right: 1px solid #fff;
@@ -101,7 +101,7 @@ A:hover {
 #menu_bar ul li a:hover
 {
   /* background: #d45500 url('../img/menu_hover_bg.gif') top left repeat-x; */
-  color: #FFFFFF;
+  color: #dbd02b;
 }
 
 #content_wrapper {
@@ -113,28 +113,28 @@ A:hover {
 }
 
 #right_side {
-  margin-top:0px;
+  margin-top:5px;
   float: right;
   width:25%;
-  border:0px dashed #cccccc;
+  border:1px solid #810000;
+  background-color: #ffffdd;
 }
 
 #right_side h3 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: verdana, arial, sans-serif;
-  font-size: 13px;
-  color: #d45500;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #c82536;
   padding:4px;
-  border: 1px solid #AAE5A4;
-  background-color:#F4FDE5;
+  border-bottom: 1px solid #810000;
 }
 
 #right_side p {
   margin-top:0px;
   margin-bottom:15px;
-  font-family: verdana, arial, sans-serif;
-  font-size: 12px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
   color: #666666;
   line-height: 16px;
   padding-left:4px;
@@ -144,15 +144,15 @@ A:hover {
   float: left;
   width:70%;
   background-color: #FFFFFF;
-  border:0px dashed #cccccc;
+  border-right: 0px dashed #cccccc;
 }
 
 #left_side h3 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: verdana, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 18px;
-  color: #d45500;
+  color: #c82536;
   background-color:#FFFFFF;
   padding:4px;
   border-bottom: 1px solid #018843;
@@ -162,27 +162,29 @@ A:hover {
 #left_side h4 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: verdana, arial, sans-serif;
-  font-size: 12px;
-  color: #d45500;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #c82536;
   background-color:#FFFFFF;
   padding:4px;
-  border-bottom: 1px solid #018843;
+  border-bottom: 1px solid #810000;
   clear:both;
 }
 
 #left_side p {
   margin-top:0px;
   margin-bottom:15px;
-  font-family: verdana, arial, sans-serif;
-  font-size: 12px;
-  color: #666666;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
+  color: #884444; 
+  /*color: #960000;*/
   line-height: 18px;
   padding-left:4px;
+  text-align: justify;
 }
 #left_side blockquote {
-  font-family: verdana, arial, sans-serif;
-  font-size: 12px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
   color: #666666;
   line-height: 18px;
   padding-left:4px; 
@@ -191,13 +193,14 @@ A:hover {
 #left_side p.big {
   font-size: 110%;
   line-height: 150%;
+  color: #960000;
+  border: 1px solid #810000;
+  padding: 1em;
+  background-color: #ffffdd;
+
 }
 
-#left_side p.box {
-  padding: 10px;
-  border: 1px solid #AAE5A4;
-  background-color:#F4FDE5;
-}
+
 
 .float_left {
   float: left;
@@ -224,13 +227,13 @@ A:hover {
   padding-left:5px;
   margin-top:0px;
   margin-bottom:5px;
-  font-family: verdana, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 12px;
   color: #779E28;
 }
 
 #feature_box p {
-  font-family: verdana, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 11px;
   color: #555555;
   line-height: 16px;
@@ -239,14 +242,14 @@ A:hover {
 
 #page_footer {
   height: 50px;
-  background-color: #d45500;
+  background-color: #c82536;
   clear: both;
 }
 
 #page_footer p {
   padding-top:18px;
   text-align: center;
-  font-family: verdana, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
   font-size: 11px;
   color: #FFFFFF;
   letter-spacing:1px;
@@ -260,17 +263,18 @@ A:hover {
 .arrow_list { 
   margin-left: 10px;
   padding-left: 0;
-  list-style: none;
 } 
 
 .arrow_list li { 
+  list-style: none;
   padding-left: 10px;
   background-image: url(../img/arrow.gif);
   background-repeat: no-repeat;
   background-position: 0 7px;
-  font-family: verdana, arial, sans-serif;
-  font-size: 12px;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 14px;
   line-height:18px;
-  color: #666666;
+  color: #884444;
+  /*color: #960000;*/
 }
 
