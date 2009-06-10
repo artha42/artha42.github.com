@@ -32,9 +32,10 @@ We believe that our adherence to the agile process with our expertise in multipl
 h3. Contact Us
 
 
-Artha42 Technology Solutions,<br/> Old No. 47 New No. 6, <br/> North Road, West CIT Nagar,<br/> Chennai - 600035,<br/> Tamilnadu, India 
+Artha42 Technology Solutions<br/><br/>No. 6, North Road,<br/>West CIT Nagar,<br/>Chennai - 600035,<br/>Tamil Nadu, India
 Email - "sales@artha42.com":mailto:sales@artha42.com
-  </div>
-  <div id="spacer"></div>
+</div>
+
+<div id="spacer"></div>
 </div>
 

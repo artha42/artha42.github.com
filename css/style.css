@@ -45,7 +45,7 @@ A:hover {
   margin: 0px;
   padding-top:30px;
   padding-left:25px;
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size:32px;
   font-weight: bold;
   letter-spacing: -1px;
@@ -56,8 +56,8 @@ A:hover {
   margin: 0px;
   padding-top:5px;
   padding-left:25px;
-  font-family: helvetica, arial, sans-serif;
-  font-size:14px;
+  font-family: verdana, arial, sans-serif;
+  font-size:13px;
   font-weight: bold;
   letter-spacing: 2px;
   color: #c7ac00;
@@ -78,8 +78,8 @@ A:hover {
   color: White;
   float: left;
   width: 100%;
-  font-family: helvetica, arial, sans-serif;
-  font-size:14px;
+  font-family: verdana, arial, sans-serif;
+  font-size:12px;
   font-weight: bold;
 }
 
@@ -113,7 +113,7 @@ A:hover {
 }
 
 #right_side {
-  margin-top:5px;
+  margin-top:0px;
   float: right;
   width:25%;
   border:1px solid #810000;
@@ -123,7 +123,7 @@ A:hover {
 #right_side h3 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size: 16px;
   color: #c82536;
   padding:4px;
@@ -133,8 +133,8 @@ A:hover {
 #right_side p {
   margin-top:0px;
   margin-bottom:15px;
-  font-family: helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 11px;
   color: #666666;
   line-height: 16px;
   padding-left:4px;
@@ -150,7 +150,7 @@ A:hover {
 #left_side h3 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size: 18px;
   color: #c82536;
   background-color:#FFFFFF;
@@ -162,8 +162,8 @@ A:hover {
 #left_side h4 {
   margin-top:0px;
   margin-bottom:10px;
-  font-family: helvetica, arial, sans-serif;
-  font-size: 16px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 12px;
   color: #c82536;
   background-color:#FFFFFF;
   padding:4px;
@@ -174,8 +174,8 @@ A:hover {
 #left_side p {
   margin-top:0px;
   margin-bottom:15px;
-  font-family: helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 12px;
   /*color: #884444; */
   color: #800000;
   line-height: 18px;
@@ -183,8 +183,8 @@ A:hover {
   text-align: justify;
 }
 #left_side blockquote {
-  font-family: helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 13px;
   color: #666666;
   line-height: 18px;
   padding-left:4px; 
@@ -197,7 +197,7 @@ A:hover {
   border: 1px solid #810000;
   padding: 1em;
   background-color: #ffffdd;
-
+  text-align: center;
 }
 
 
@@ -227,13 +227,13 @@ A:hover {
   padding-left:5px;
   margin-top:0px;
   margin-bottom:5px;
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size: 12px;
   color: #779E28;
 }
 
 #feature_box p {
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size: 11px;
   color: #555555;
   line-height: 16px;
@@ -249,7 +249,7 @@ A:hover {
 #page_footer p {
   padding-top:18px;
   text-align: center;
-  font-family: helvetica, arial, sans-serif;
+  font-family: verdana, arial, sans-serif;
   font-size: 11px;
   color: #FFFFFF;
   letter-spacing:1px;
@@ -271,8 +271,8 @@ A:hover {
   background-image: url(../img/arrow.gif);
   background-repeat: no-repeat;
   background-position: 0 7px;
-  font-family: helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-family: verdana, arial, sans-serif;
+  font-size: 11px;
   line-height:18px;
   color: #800000;
   /*color: #960000;*/
