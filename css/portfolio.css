@@ -1,0 +1,36 @@
+.container{
+background-color: #CCCCCC;
+border: 1px solid #999999;
+margin-top: 30px;
+}
+.content{
+margin: 1px 1px 1px 1px;
+background-color: #FFFFFF;
+}
+.column{
+padding-left: 20px;
+float: left;
+width : 35%;
+}
+.column h3{
+color:#C82536;
+font-size:22px;
+margin-bottom:30px;
+text-align: center;
+}
+.column p{
+text-align: center;
+}
+.right{
+text-align: center;
+padding: 20px 0px 20px 0px;
+}
+.jcarousel-list li{
+list-style: none;
+color:#800000;
+font-family: verdana, arial, sans-serif;
+}
+.right img{
+height:400px;
+width:57%;
+}
