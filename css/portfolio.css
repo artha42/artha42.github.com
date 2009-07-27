@@ -19,7 +19,8 @@ margin-bottom:30px;
 text-align: center;
 }
 .column p{
-text-align: center;
+text-align: justify;
+font-size:14px;
 }
 .right{
 text-align: center;

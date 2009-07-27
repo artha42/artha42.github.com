@@ -8,7 +8,7 @@ layout: default
               <div class="column">
 h3. Star Retail
 
-A portal to quickly buy health insurance policies.The site enables one to fill in a simple form to choose the various cover options and buy online using multiple payment modes. On the backend, various reports are available as well as a order state management facility. (http://retail.starhealth.in)
+A portal to quickly buy health insurance policies.The site enables one to fill in a simple form to choose the various cover options and buy online using multiple payment modes.On the backend, various reports are available as well as a order state management facility.(http://retail.starhealth.in)
 		
               </div>
               <div class="right">
